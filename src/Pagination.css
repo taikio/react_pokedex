@@ -1,0 +1,27 @@
+.pagination {    
+    margin-top: 16px;
+}
+
+.btn {
+    padding: 8px 14px;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid tomato;
+    color: tomato;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: ease-in 0.2s;  
+}
+
+.btn:hover {
+    background-color: tomato;
+    color: #fff;
+}
+
+.btn-prev {
+    margin-right: 18px;
+}
+
+.btn-next {
+    margin-right: 18px;
+}
